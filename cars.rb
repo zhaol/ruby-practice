@@ -10,11 +10,11 @@ class Cars
     @miles = miles # different with each new instance
   end
 
-  def color?
+  def color
     @color
   end
   
-  def miles?
+  def miles
     @miles
   end
   
